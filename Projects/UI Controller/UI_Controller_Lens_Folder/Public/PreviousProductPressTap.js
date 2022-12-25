@@ -1,0 +1,3 @@
+// -----JS CODE-----
+
+global.PreviousProduct();

@@ -1,0 +1,3243 @@
+{
+    "lens_id": "",
+    "document_id": "5FvbOST3NH-mbpfdo4r_",
+    "original_document_id": "3J_FMygBnv2FNd4o-oTl",
+    "version": "29",
+    "lastChanged": "1671497484890",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "31",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "31",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "EyesButton"
+                    ],
+                    [
+                        "FaceButton"
+                    ],
+                    [
+                        "LipsButton"
+                    ],
+                    [
+                        "NextProductPressTap"
+                    ],
+                    [
+                        "PreviousProductPressTap"
+                    ],
+                    [
+                        "Product",
+                        "blush",
+                        "one_size_2"
+                    ],
+                    [
+                        "Product",
+                        "blush",
+                        "rare_beauty"
+                    ],
+                    [
+                        "Product",
+                        "eyeShadow"
+                    ],
+                    [
+                        "Product",
+                        "eyeShadow",
+                        "about_face"
+                    ],
+                    [
+                        "Product",
+                        "eyeShadow",
+                        "bobbi_brown"
+                    ],
+                    [
+                        "Product",
+                        "eyeShadow",
+                        "colourpop"
+                    ],
+                    [
+                        "Product",
+                        "eyeShadow",
+                        "florence_by_mills"
+                    ],
+                    [
+                        "Product",
+                        "eyeShadow",
+                        "hourglass_cosmetics"
+                    ],
+                    [
+                        "Product",
+                        "eyeShadow",
+                        "juvias_place"
+                    ],
+                    [
+                        "Product",
+                        "eyeShadow",
+                        "kulfi_beauty"
+                    ],
+                    [
+                        "Product",
+                        "eyeShadow",
+                        "stila_cosmetics"
+                    ],
+                    [
+                        "Product",
+                        "lips"
+                    ],
+                    [
+                        "Product",
+                        "lips",
+                        "armani_beauty_lipstick"
+                    ],
+                    [
+                        "Product",
+                        "lips",
+                        "christian_dior_lipstick"
+                    ],
+                    [
+                        "Product",
+                        "lips",
+                        "ere_perez_lipstick"
+                    ],
+                    [
+                        "Product",
+                        "lips",
+                        "fenty_beauty"
+                    ],
+                    [
+                        "Product",
+                        "lips",
+                        "guerlain_lipstick"
+                    ],
+                    [
+                        "Product",
+                        "lips",
+                        "maybelline_new_york_lipstick"
+                    ],
+                    [
+                        "Product",
+                        "lips",
+                        "play_beauty"
+                    ],
+                    [
+                        "Product",
+                        "lips",
+                        "pound_cake_lipstick"
+                    ],
+                    [
+                        "Product",
+                        "lips",
+                        "sunnies_face_lipstick"
+                    ],
+                    [
+                        "SelectUnselectButton"
+                    ],
+                    [
+                        "SwipeProduct"
+                    ],
+                    [
+                        "UI ASSETS"
+                    ],
+                    [
+                        "UI ASSETS",
+                        "Arrow_Left"
+                    ],
+                    [
+                        "UI ASSETS",
+                        "Arrow_Right"
+                    ],
+                    [
+                        "UI ASSETS",
+                        "EYES_BUTTON_SELECTED"
+                    ],
+                    [
+                        "UI ASSETS",
+                        "EYES_BUTTON_UNSELECTED"
+                    ],
+                    [
+                        "UI ASSETS",
+                        "FACE_BUTTON_Selected"
+                    ],
+                    [
+                        "UI ASSETS",
+                        "FACE_BUTTON_UnSelected"
+                    ],
+                    [
+                        "UI ASSETS",
+                        "LIP_BUTTON_SELECTED"
+                    ],
+                    [
+                        "UI ASSETS",
+                        "LIP_BUTTON_UNSELECTED"
+                    ],
+                    [
+                        "UI ASSETS",
+                        "LOGOx512"
+                    ],
+                    [
+                        "UIManager"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813"
+                ]
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "MapUiComponent": {
+            "mapPinPoints": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1665136400591504:56155",
+                    "name": "Files\/File8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1665136400598690:56161",
+                    "name": "Files\/File11.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1665136400605473:56165",
+                    "name": "Files\/File14.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1665136400610318:56169",
+                    "name": "Files\/File17.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1665136400614954:56173",
+                    "name": "Files\/File20.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1665136400620450:56177",
+                    "name": "Files\/File23.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1665136400625343:56181",
+                    "name": "Files\/File26.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1665136400631196:56187",
+                    "name": "Files\/File29.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1665136400637122:56191",
+                    "name": "Files\/File32.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1665136400642181:56195",
+                    "name": "Files\/File35.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1665136400647629:56199",
+                    "name": "Files\/File38.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1665136400653599:56203",
+                    "name": "Files\/File41.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1665136400659440:56207",
+                    "name": "Files\/File44.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1665136400668207:56213",
+                    "name": "Files\/File47.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1665136400675624:56217",
+                    "name": "Files\/File50.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1665136400680463:56221",
+                    "name": "Files\/File53.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1665136400685935:56225",
+                    "name": "Files\/File56.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1665136400691291:56229",
+                    "name": "Files\/File59.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1665136400697612:56235",
+                    "name": "Files\/File62.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1665136400743700:56279",
+                    "name": "Files\/File65.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1665136400748136:56283",
+                    "name": "Files\/File68.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1665136400752474:56287",
+                    "name": "Files\/File71.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1665136400757886:56291",
+                    "name": "Files\/File74.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1665136400762155:56297",
+                    "name": "Files\/File77.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1665136400767939:56301",
+                    "name": "Files\/File80.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1665136400777995:56305",
+                    "name": "Files\/File83.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1665136400782526:56309",
+                    "name": "Files\/File86.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1665136400786100:56313",
+                    "name": "Files\/File89.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1671487011488425:7824",
+                    "name": "Files\/File92.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1671487026750949:9215",
+                    "name": "Files\/File93.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1671489414953193:190788",
+                    "name": "Files\/File94.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1671491865326662:17701",
+                    "name": "Files\/File95.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1671495653042533:5366",
+                    "name": "Files\/File96.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1671495741858314:14089",
+                    "name": "Files\/File97.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1671495819599769:23149",
+                    "name": "Files\/File98.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1671497261366533:146216",
+                    "name": "Files\/File99.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1671471891018082:2731",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1671471971621155:12792",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1671471971671144:12921",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1671472046220592:23652",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1671472223428700:45491",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1671472223474470:45618",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1671472284851041:52119",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1671472284897396:52247",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1671472324468897:59699",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1671471890933834:2541",
+                "4": "1671471890951506:2600",
+                "5": "1671471891017792:2730",
+                "6": "1671471971619569:12790",
+                "7": "1671471971670624:12920",
+                "8": "1671472046159058:23521",
+                "9": "1671472046219877:23651",
+                "10": "1671472223427948:45489",
+                "11": "1671472223474148:45617",
+                "12": "1671472284849327:52117",
+                "13": "1671472284896503:52246",
+                "14": "1671472324418499:59568",
+                "15": "1671472324468434:59698",
+                "16": "1671487130290677:15936"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.png"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.png"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.png"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.png"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.png"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.png"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.png"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.png"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.png"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.png"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.png"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.png"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.png"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.png"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.png"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.png"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.png"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.png"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.png"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.png"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.png"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.png"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.png"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.png"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.png"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.png"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.png"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.png"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.png"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.png"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.png"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.png"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.png"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.png"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.png"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.png"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.png"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.png"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.png"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.png"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.png"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.png"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.png"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.png"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.png"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.png"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.png"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.png"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.png"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57.png"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.png"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.png"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.png"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.png"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62.png"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.png"
+                },
+                {
+                    "k": "64",
+                    "v": "Files\/File64.png"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.png"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.png"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.png"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.png"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.png"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.png"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.png"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.png"
+                },
+                {
+                    "k": "73",
+                    "v": "Files\/File73.png"
+                },
+                {
+                    "k": "74",
+                    "v": "Files\/File74.png"
+                },
+                {
+                    "k": "75",
+                    "v": "Files\/File75.png"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76.png"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77.png"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78.png"
+                },
+                {
+                    "k": "79",
+                    "v": "Files\/File79.png"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80.png"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.png"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82.png"
+                },
+                {
+                    "k": "83",
+                    "v": "Files\/File83.png"
+                },
+                {
+                    "k": "84",
+                    "v": "Files\/File84.png"
+                },
+                {
+                    "k": "85",
+                    "v": "Files\/File85.png"
+                },
+                {
+                    "k": "86",
+                    "v": "Files\/File86.png"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87.png"
+                },
+                {
+                    "k": "88",
+                    "v": "Files\/File88.png"
+                },
+                {
+                    "k": "89",
+                    "v": "Files\/File89.png"
+                },
+                {
+                    "k": "90",
+                    "v": "Files\/File90.png"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91.png"
+                },
+                {
+                    "k": "92",
+                    "v": "Files\/File92.js"
+                },
+                {
+                    "k": "93",
+                    "v": "Files\/File93.js"
+                },
+                {
+                    "k": "94",
+                    "v": "Files\/File94.js"
+                },
+                {
+                    "k": "95",
+                    "v": "Files\/File95.js"
+                },
+                {
+                    "k": "96",
+                    "v": "Files\/File96.js"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97.js"
+                },
+                {
+                    "k": "98",
+                    "v": "Files\/File98.js"
+                },
+                {
+                    "k": "99",
+                    "v": "Files\/File99.js"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "28590",
+                        "v": "Product"
+                    },
+                    {
+                        "k": "28591",
+                        "v": "Product\/blush"
+                    },
+                    {
+                        "k": "28592",
+                        "v": "Product\/blush\/rare_beauty.png"
+                    },
+                    {
+                        "k": "28593",
+                        "v": "Product\/blush\/one_size_2.png"
+                    },
+                    {
+                        "k": "28594",
+                        "v": "Product\/eyeShadow"
+                    },
+                    {
+                        "k": "28595",
+                        "v": "Product\/eyeShadow\/juvias_place.png"
+                    },
+                    {
+                        "k": "28596",
+                        "v": "Product\/eyeShadow\/about_face.png"
+                    },
+                    {
+                        "k": "28597",
+                        "v": "Product\/eyeShadow\/stila_cosmetics.png"
+                    },
+                    {
+                        "k": "28598",
+                        "v": "Product\/eyeShadow\/florence_by_mills.png"
+                    },
+                    {
+                        "k": "28599",
+                        "v": "Product\/eyeShadow\/bobbi_brown.png"
+                    },
+                    {
+                        "k": "28600",
+                        "v": "Product\/eyeShadow\/hourglass_cosmetics.png"
+                    },
+                    {
+                        "k": "28601",
+                        "v": "Product\/eyeShadow\/colourpop.png"
+                    },
+                    {
+                        "k": "28602",
+                        "v": "Product\/eyeShadow\/kulfi_beauty.png"
+                    },
+                    {
+                        "k": "28603",
+                        "v": "Product\/lips"
+                    },
+                    {
+                        "k": "28604",
+                        "v": "Product\/lips\/play_beauty.png"
+                    },
+                    {
+                        "k": "28605",
+                        "v": "Product\/lips\/maybelline_new_york_lipstick.png"
+                    },
+                    {
+                        "k": "28606",
+                        "v": "Product\/lips\/guerlain_lipstick.png"
+                    },
+                    {
+                        "k": "28607",
+                        "v": "Product\/lips\/christian_dior_lipstick.png"
+                    },
+                    {
+                        "k": "28608",
+                        "v": "Product\/lips\/armani_beauty_lipstick.png"
+                    },
+                    {
+                        "k": "28609",
+                        "v": "Product\/lips\/pound_cake_lipstick.png"
+                    },
+                    {
+                        "k": "28610",
+                        "v": "Product\/lips\/fenty_beauty.png"
+                    },
+                    {
+                        "k": "28611",
+                        "v": "Product\/lips\/sunnies_face_lipstick.png"
+                    },
+                    {
+                        "k": "28612",
+                        "v": "Product\/lips\/ere_perez_lipstick.png"
+                    },
+                    {
+                        "k": "28613",
+                        "v": "UI ASSETS"
+                    },
+                    {
+                        "k": "28614",
+                        "v": "UI ASSETS\/Arrow_Right.png"
+                    },
+                    {
+                        "k": "28615",
+                        "v": "UI ASSETS\/Arrow_Left.png"
+                    },
+                    {
+                        "k": "28616",
+                        "v": "UI ASSETS\/FACE_BUTTON_UnSelected.png"
+                    },
+                    {
+                        "k": "28617",
+                        "v": "UI ASSETS\/EYES_BUTTON_SELECTED.png"
+                    },
+                    {
+                        "k": "28618",
+                        "v": "UI ASSETS\/EYES_BUTTON_UNSELECTED.png"
+                    },
+                    {
+                        "k": "28619",
+                        "v": "UI ASSETS\/LOGOx512.png"
+                    },
+                    {
+                        "k": "28620",
+                        "v": "UI ASSETS\/LIP_BUTTON_UNSELECTED.png"
+                    },
+                    {
+                        "k": "28621",
+                        "v": "UI ASSETS\/FACE_BUTTON_Selected.png"
+                    },
+                    {
+                        "k": "28622",
+                        "v": "UI ASSETS\/LIP_BUTTON_SELECTED.png"
+                    },
+                    {
+                        "k": "28623",
+                        "v": "UIManager.js"
+                    },
+                    {
+                        "k": "28624",
+                        "v": "NextProductPressTap.js"
+                    },
+                    {
+                        "k": "28625",
+                        "v": "PreviousProductPressTap.js"
+                    },
+                    {
+                        "k": "28626",
+                        "v": "SwipeProduct.js"
+                    },
+                    {
+                        "k": "28627",
+                        "v": "FaceButton.js"
+                    },
+                    {
+                        "k": "28628",
+                        "v": "LipsButton.js"
+                    },
+                    {
+                        "k": "28629",
+                        "v": "EyesButton.js"
+                    },
+                    {
+                        "k": "28630",
+                        "v": "SelectUnselectButton.js"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "28592",
+                        "v": "b66ada9ba057ef32e7c3dc48fbb0ef5f"
+                    },
+                    {
+                        "k": "28593",
+                        "v": "5b2cc12cbf89a74b5a31540f4bbc94f5"
+                    },
+                    {
+                        "k": "28595",
+                        "v": "ac89b80ea5340954713c1c2e12a98296"
+                    },
+                    {
+                        "k": "28596",
+                        "v": "8ae46d6a86c8ac6042781c0d0e41b33e"
+                    },
+                    {
+                        "k": "28597",
+                        "v": "04f2193f4f58e8cd99e76c222fbe3b2f"
+                    },
+                    {
+                        "k": "28598",
+                        "v": "3424826ca8b7bc0b11834c7da1b0428f"
+                    },
+                    {
+                        "k": "28599",
+                        "v": "670b420b8edbf52ef6033f457bdb4360"
+                    },
+                    {
+                        "k": "28600",
+                        "v": "6ef15e6f3f8a6dd2a0a93f216cb4abb4"
+                    },
+                    {
+                        "k": "28601",
+                        "v": "7479a0199c7a56cded37579e333e95a7"
+                    },
+                    {
+                        "k": "28602",
+                        "v": "f8af7e697a015a93800922860b095353"
+                    },
+                    {
+                        "k": "28604",
+                        "v": "072ad91ccebba7966ef80eeda7abdf0b"
+                    },
+                    {
+                        "k": "28605",
+                        "v": "54ea4f56fafa937b674f46da94ef66e2"
+                    },
+                    {
+                        "k": "28606",
+                        "v": "a728db1d87aec651a2c3c82be0585465"
+                    },
+                    {
+                        "k": "28607",
+                        "v": "7d88359cf907ef399ad67d85d715d3c6"
+                    },
+                    {
+                        "k": "28608",
+                        "v": "514e2075d10ad244b615b60593990df0"
+                    },
+                    {
+                        "k": "28609",
+                        "v": "47bf31d857206c4d57e5db83015d686e"
+                    },
+                    {
+                        "k": "28610",
+                        "v": "7c933003cb57318bce966f4c753beb10"
+                    },
+                    {
+                        "k": "28611",
+                        "v": "464058cb2e6d79845257b6def3096632"
+                    },
+                    {
+                        "k": "28612",
+                        "v": "89482a7c745870adb2f5c12af9175180"
+                    },
+                    {
+                        "k": "28614",
+                        "v": "14e3fd61d31cdfabc0dcbce34c65e228"
+                    },
+                    {
+                        "k": "28615",
+                        "v": "26523bbadb50cd02af560e47fd6c3284"
+                    },
+                    {
+                        "k": "28616",
+                        "v": "a945edac42b960ba355fa9b8823f0759"
+                    },
+                    {
+                        "k": "28617",
+                        "v": "5fa78f0557a6a3ca720ec990744d15b2"
+                    },
+                    {
+                        "k": "28618",
+                        "v": "f5f1e1f71dcc37f60fd2a2aa3fe2beac"
+                    },
+                    {
+                        "k": "28619",
+                        "v": "777298724cbf9d9462dc02c2e4dee933"
+                    },
+                    {
+                        "k": "28620",
+                        "v": "f4b42144ec1db85aed1971034eaa4cd5"
+                    },
+                    {
+                        "k": "28621",
+                        "v": "fb641e3e5ab9a685a12e1c7385cf3400"
+                    },
+                    {
+                        "k": "28622",
+                        "v": "b0a3a759a5fa78c1caeeeff77098bd27"
+                    },
+                    {
+                        "k": "28623",
+                        "v": "01db39b52928285f37bde91d3e866776"
+                    },
+                    {
+                        "k": "28624",
+                        "v": "73514e01b0b5d7600ea44769f1cf8ab4"
+                    },
+                    {
+                        "k": "28625",
+                        "v": "e84a02c677c8a1bc7c77d7963cee73e2"
+                    },
+                    {
+                        "k": "28626",
+                        "v": "2724d65c6678409e0aa6ed2cd16d8664"
+                    },
+                    {
+                        "k": "28627",
+                        "v": "c9c622edfa4f4ef6b119983f725cda9d"
+                    },
+                    {
+                        "k": "28628",
+                        "v": "2c569b252ae3f424f4240e98c194e6ea"
+                    },
+                    {
+                        "k": "28629",
+                        "v": "b15cc3c1b70125e3acc26b0dc53b390c"
+                    },
+                    {
+                        "k": "28630",
+                        "v": "41f61e2aac7bab4cff713c54319508d3"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2022-12-20T03:50:49",
+                        "name": "Public",
+                        "hash": "dd686462428f2fa9cdb21576769a850e",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-10-02T19:25:20",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-20T03:48:31",
+                                "name": "EyesButton.js",
+                                "hash": "b15cc3c1b70125e3acc26b0dc53b390c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-20T03:48:47",
+                                "name": "FaceButton.js",
+                                "hash": "c9c622edfa4f4ef6b119983f725cda9d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-10-02T19:25:20",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-20T03:48:39",
+                                "name": "LipsButton.js",
+                                "hash": "2c569b252ae3f424f4240e98c194e6ea",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-20T01:21:33",
+                                "name": "NextProductPressTap.js",
+                                "hash": "73514e01b0b5d7600ea44769f1cf8ab4",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-20T01:39:35",
+                                "name": "PreviousProductPressTap.js",
+                                "hash": "e84a02c677c8a1bc7c77d7963cee73e2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-12-19T19:26:43",
+                                "name": "Product",
+                                "hash": "f001e232fd4331f856d0ccc3afcdab46",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-12-19T19:26:43",
+                                        "name": "blush",
+                                        "hash": "cc4d153aaac494a48c02d32fbd79225d",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-10-07T02:53:20",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-06T02:02:04",
+                                                "name": "one_size_2.png",
+                                                "hash": "5b2cc12cbf89a74b5a31540f4bbc94f5",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-22T06:09:12",
+                                                "name": "rare_beauty.png",
+                                                "hash": "b66ada9ba057ef32e7c3dc48fbb0ef5f",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-12-19T19:26:43",
+                                        "name": "eyeShadow",
+                                        "hash": "389db7be61287534621af932c10a6d0d",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-22T06:09:12",
+                                                "name": "about_face.png",
+                                                "hash": "8ae46d6a86c8ac6042781c0d0e41b33e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-22T06:09:12",
+                                                "name": "bobbi_brown.png",
+                                                "hash": "670b420b8edbf52ef6033f457bdb4360",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-22T06:09:12",
+                                                "name": "colourpop.png",
+                                                "hash": "7479a0199c7a56cded37579e333e95a7",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-22T06:09:12",
+                                                "name": "florence_by_mills.png",
+                                                "hash": "3424826ca8b7bc0b11834c7da1b0428f",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-10-07T02:53:20",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-22T06:09:12",
+                                                "name": "hourglass_cosmetics.png",
+                                                "hash": "6ef15e6f3f8a6dd2a0a93f216cb4abb4",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-22T06:09:12",
+                                                "name": "juvias_place.png",
+                                                "hash": "ac89b80ea5340954713c1c2e12a98296",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-22T06:09:12",
+                                                "name": "kulfi_beauty.png",
+                                                "hash": "f8af7e697a015a93800922860b095353",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-22T06:09:12",
+                                                "name": "stila_cosmetics.png",
+                                                "hash": "04f2193f4f58e8cd99e76c222fbe3b2f",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-07T02:53:20",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-12-19T19:26:43",
+                                        "name": "lips",
+                                        "hash": "4ef170f1eed212ee0fb88e033da26257",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-22T06:09:12",
+                                                "name": "armani_beauty_lipstick.png",
+                                                "hash": "514e2075d10ad244b615b60593990df0",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-29T05:48:08",
+                                                "name": "christian_dior_lipstick.png",
+                                                "hash": "7d88359cf907ef399ad67d85d715d3c6",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-22T06:09:12",
+                                                "name": "ere_perez_lipstick.png",
+                                                "hash": "89482a7c745870adb2f5c12af9175180",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-22T06:09:12",
+                                                "name": "fenty_beauty.png",
+                                                "hash": "7c933003cb57318bce966f4c753beb10",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-10-07T02:53:20",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-22T06:09:12",
+                                                "name": "guerlain_lipstick.png",
+                                                "hash": "a728db1d87aec651a2c3c82be0585465",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-22T06:09:12",
+                                                "name": "maybelline_new_york_lipstick.png",
+                                                "hash": "54ea4f56fafa937b674f46da94ef66e2",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-22T06:09:12",
+                                                "name": "play_beauty.png",
+                                                "hash": "072ad91ccebba7966ef80eeda7abdf0b",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-22T06:09:12",
+                                                "name": "pound_cake_lipstick.png",
+                                                "hash": "47bf31d857206c4d57e5db83015d686e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-08-22T06:09:12",
+                                                "name": "sunnies_face_lipstick.png",
+                                                "hash": "464058cb2e6d79845257b6def3096632",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-20T03:48:19",
+                                "name": "SelectUnselectButton.js",
+                                "hash": "41f61e2aac7bab4cff713c54319508d3",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-20T03:23:58",
+                                "name": "SwipeProduct.js",
+                                "hash": "2724d65c6678409e0aa6ed2cd16d8664",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-12-19T19:26:43",
+                                "name": "UI ASSETS",
+                                "hash": "b9b2d00fac29fab8400318277f5eb760",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-08-22T06:09:12",
+                                        "name": "Arrow_Left.png",
+                                        "hash": "26523bbadb50cd02af560e47fd6c3284",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-08-22T06:09:12",
+                                        "name": "Arrow_Right.png",
+                                        "hash": "14e3fd61d31cdfabc0dcbce34c65e228",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-08-22T06:09:12",
+                                        "name": "EYES_BUTTON_SELECTED.png",
+                                        "hash": "5fa78f0557a6a3ca720ec990744d15b2",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-08-22T06:09:12",
+                                        "name": "EYES_BUTTON_UNSELECTED.png",
+                                        "hash": "f5f1e1f71dcc37f60fd2a2aa3fe2beac",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-08-22T06:09:12",
+                                        "name": "FACE_BUTTON_Selected.png",
+                                        "hash": "fb641e3e5ab9a685a12e1c7385cf3400",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-08-22T06:09:12",
+                                        "name": "FACE_BUTTON_UnSelected.png",
+                                        "hash": "a945edac42b960ba355fa9b8823f0759",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-07T02:53:20",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-08-22T06:09:12",
+                                        "name": "LIP_BUTTON_SELECTED.png",
+                                        "hash": "b0a3a759a5fa78c1caeeeff77098bd27",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-08-22T06:09:12",
+                                        "name": "LIP_BUTTON_UNSELECTED.png",
+                                        "hash": "f4b42144ec1db85aed1971034eaa4cd5",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-08-30T02:23:26",
+                                        "name": "LOGOx512.png",
+                                        "hash": "777298724cbf9d9462dc02c2e4dee933",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-20T03:50:49",
+                                "name": "UIManager.js",
+                                "hash": "01db39b52928285f37bde91d3e866776",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Physics Root World Settings",
+                        "type": "36",
+                        "subtype": "1",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "8675309:9035768",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Product",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "28590",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "blush",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "28591",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "rare_beauty",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "13",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665136400591504:56155",
+                                        "fileId": "8",
+                                        "originalId": "9",
+                                        "publicId": "28592",
+                                        "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/Product\/blush\/rare_beauty.png",
+                                        "additional": {
+                                            "originHash": "b66ada9ba057ef32e7c3dc48fbb0ef5f"
+                                        }
+                                    },
+                                    {
+                                        "name": "one_size_2",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "14",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665136400598690:56161",
+                                        "fileId": "11",
+                                        "originalId": "12",
+                                        "publicId": "28593",
+                                        "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/Product\/blush\/one_size_2.png",
+                                        "additional": {
+                                            "originHash": "5b2cc12cbf89a74b5a31540f4bbc94f5"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "eyeShadow",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "28594",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "juvias_place",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "15",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665136400605473:56165",
+                                        "fileId": "14",
+                                        "originalId": "15",
+                                        "publicId": "28595",
+                                        "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/Product\/eyeShadow\/juvias_place.png",
+                                        "additional": {
+                                            "originHash": "ac89b80ea5340954713c1c2e12a98296"
+                                        }
+                                    },
+                                    {
+                                        "name": "about_face",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "16",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665136400610318:56169",
+                                        "fileId": "17",
+                                        "originalId": "18",
+                                        "publicId": "28596",
+                                        "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/Product\/eyeShadow\/about_face.png",
+                                        "additional": {
+                                            "originHash": "8ae46d6a86c8ac6042781c0d0e41b33e"
+                                        }
+                                    },
+                                    {
+                                        "name": "stila_cosmetics",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "17",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665136400614954:56173",
+                                        "fileId": "20",
+                                        "originalId": "21",
+                                        "publicId": "28597",
+                                        "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/Product\/eyeShadow\/stila_cosmetics.png",
+                                        "additional": {
+                                            "originHash": "04f2193f4f58e8cd99e76c222fbe3b2f"
+                                        }
+                                    },
+                                    {
+                                        "name": "florence_by_mills",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "18",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665136400620450:56177",
+                                        "fileId": "23",
+                                        "originalId": "24",
+                                        "publicId": "28598",
+                                        "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/Product\/eyeShadow\/florence_by_mills.png",
+                                        "additional": {
+                                            "originHash": "3424826ca8b7bc0b11834c7da1b0428f"
+                                        }
+                                    },
+                                    {
+                                        "name": "bobbi_brown",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "19",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665136400625343:56181",
+                                        "fileId": "26",
+                                        "originalId": "27",
+                                        "publicId": "28599",
+                                        "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/Product\/eyeShadow\/bobbi_brown.png",
+                                        "additional": {
+                                            "originHash": "670b420b8edbf52ef6033f457bdb4360"
+                                        }
+                                    },
+                                    {
+                                        "name": "hourglass_cosmetics",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "20",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665136400631196:56187",
+                                        "fileId": "29",
+                                        "originalId": "30",
+                                        "publicId": "28600",
+                                        "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/Product\/eyeShadow\/hourglass_cosmetics.png",
+                                        "additional": {
+                                            "originHash": "6ef15e6f3f8a6dd2a0a93f216cb4abb4"
+                                        }
+                                    },
+                                    {
+                                        "name": "colourpop",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "21",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665136400637122:56191",
+                                        "fileId": "32",
+                                        "originalId": "33",
+                                        "publicId": "28601",
+                                        "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/Product\/eyeShadow\/colourpop.png",
+                                        "additional": {
+                                            "originHash": "7479a0199c7a56cded37579e333e95a7"
+                                        }
+                                    },
+                                    {
+                                        "name": "kulfi_beauty",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "22",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665136400642181:56195",
+                                        "fileId": "35",
+                                        "originalId": "36",
+                                        "publicId": "28602",
+                                        "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/Product\/eyeShadow\/kulfi_beauty.png",
+                                        "additional": {
+                                            "originHash": "f8af7e697a015a93800922860b095353"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "lips",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "28603",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "play_beauty",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "23",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665136400647629:56199",
+                                        "fileId": "38",
+                                        "originalId": "39",
+                                        "publicId": "28604",
+                                        "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/Product\/lips\/play_beauty.png",
+                                        "additional": {
+                                            "originHash": "072ad91ccebba7966ef80eeda7abdf0b"
+                                        }
+                                    },
+                                    {
+                                        "name": "maybelline_new_york_lipstick",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "24",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665136400653599:56203",
+                                        "fileId": "41",
+                                        "originalId": "42",
+                                        "publicId": "28605",
+                                        "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/Product\/lips\/maybelline_new_york_lipstick.png",
+                                        "additional": {
+                                            "originHash": "54ea4f56fafa937b674f46da94ef66e2"
+                                        }
+                                    },
+                                    {
+                                        "name": "guerlain_lipstick",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "25",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665136400659440:56207",
+                                        "fileId": "44",
+                                        "originalId": "45",
+                                        "publicId": "28606",
+                                        "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/Product\/lips\/guerlain_lipstick.png",
+                                        "additional": {
+                                            "originHash": "a728db1d87aec651a2c3c82be0585465"
+                                        }
+                                    },
+                                    {
+                                        "name": "christian_dior_lipstick",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "26",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665136400668207:56213",
+                                        "fileId": "47",
+                                        "originalId": "48",
+                                        "publicId": "28607",
+                                        "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/Product\/lips\/christian_dior_lipstick.png",
+                                        "additional": {
+                                            "originHash": "7d88359cf907ef399ad67d85d715d3c6"
+                                        }
+                                    },
+                                    {
+                                        "name": "armani_beauty_lipstick",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "27",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665136400675624:56217",
+                                        "fileId": "50",
+                                        "originalId": "51",
+                                        "publicId": "28608",
+                                        "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/Product\/lips\/armani_beauty_lipstick.png",
+                                        "additional": {
+                                            "originHash": "514e2075d10ad244b615b60593990df0"
+                                        }
+                                    },
+                                    {
+                                        "name": "pound_cake_lipstick",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "28",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665136400680463:56221",
+                                        "fileId": "53",
+                                        "originalId": "54",
+                                        "publicId": "28609",
+                                        "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/Product\/lips\/pound_cake_lipstick.png",
+                                        "additional": {
+                                            "originHash": "47bf31d857206c4d57e5db83015d686e"
+                                        }
+                                    },
+                                    {
+                                        "name": "fenty_beauty",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "29",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665136400685935:56225",
+                                        "fileId": "56",
+                                        "originalId": "57",
+                                        "publicId": "28610",
+                                        "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/Product\/lips\/fenty_beauty.png",
+                                        "additional": {
+                                            "originHash": "7c933003cb57318bce966f4c753beb10"
+                                        }
+                                    },
+                                    {
+                                        "name": "sunnies_face_lipstick",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "30",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665136400691291:56229",
+                                        "fileId": "59",
+                                        "originalId": "60",
+                                        "publicId": "28611",
+                                        "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/Product\/lips\/sunnies_face_lipstick.png",
+                                        "additional": {
+                                            "originHash": "464058cb2e6d79845257b6def3096632"
+                                        }
+                                    },
+                                    {
+                                        "name": "ere_perez_lipstick",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "31",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665136400697612:56235",
+                                        "fileId": "62",
+                                        "originalId": "63",
+                                        "publicId": "28612",
+                                        "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/Product\/lips\/ere_perez_lipstick.png",
+                                        "additional": {
+                                            "originHash": "89482a7c745870adb2f5c12af9175180"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "UI ASSETS",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "28613",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Arrow_Right",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "32",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1665136400743700:56279",
+                                "fileId": "65",
+                                "originalId": "66",
+                                "publicId": "28614",
+                                "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/UI ASSETS\/Arrow_Right.png",
+                                "additional": {
+                                    "originHash": "14e3fd61d31cdfabc0dcbce34c65e228"
+                                }
+                            },
+                            {
+                                "name": "Arrow_Left",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "33",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1665136400748136:56283",
+                                "fileId": "68",
+                                "originalId": "69",
+                                "publicId": "28615",
+                                "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/UI ASSETS\/Arrow_Left.png",
+                                "additional": {
+                                    "originHash": "26523bbadb50cd02af560e47fd6c3284"
+                                }
+                            },
+                            {
+                                "name": "FACE_BUTTON_UnSelected",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "34",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1665136400752474:56287",
+                                "fileId": "71",
+                                "originalId": "72",
+                                "publicId": "28616",
+                                "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/UI ASSETS\/FACE_BUTTON_UnSelected.png",
+                                "additional": {
+                                    "originHash": "a945edac42b960ba355fa9b8823f0759"
+                                }
+                            },
+                            {
+                                "name": "EYES_BUTTON_SELECTED",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "35",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1665136400757886:56291",
+                                "fileId": "74",
+                                "originalId": "75",
+                                "publicId": "28617",
+                                "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/UI ASSETS\/EYES_BUTTON_SELECTED.png",
+                                "additional": {
+                                    "originHash": "5fa78f0557a6a3ca720ec990744d15b2"
+                                }
+                            },
+                            {
+                                "name": "EYES_BUTTON_UNSELECTED",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "36",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1665136400762155:56297",
+                                "fileId": "77",
+                                "originalId": "78",
+                                "publicId": "28618",
+                                "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/UI ASSETS\/EYES_BUTTON_UNSELECTED.png",
+                                "additional": {
+                                    "originHash": "f5f1e1f71dcc37f60fd2a2aa3fe2beac"
+                                }
+                            },
+                            {
+                                "name": "LOGOx512",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "37",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1665136400767939:56301",
+                                "fileId": "80",
+                                "originalId": "81",
+                                "publicId": "28619",
+                                "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/UI ASSETS\/LOGOx512.png",
+                                "additional": {
+                                    "originHash": "777298724cbf9d9462dc02c2e4dee933"
+                                }
+                            },
+                            {
+                                "name": "LIP_BUTTON_UNSELECTED",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "38",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1665136400777995:56305",
+                                "fileId": "83",
+                                "originalId": "84",
+                                "publicId": "28620",
+                                "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/UI ASSETS\/LIP_BUTTON_UNSELECTED.png",
+                                "additional": {
+                                    "originHash": "f4b42144ec1db85aed1971034eaa4cd5"
+                                }
+                            },
+                            {
+                                "name": "FACE_BUTTON_Selected",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "39",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1665136400782526:56309",
+                                "fileId": "86",
+                                "originalId": "87",
+                                "publicId": "28621",
+                                "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/UI ASSETS\/FACE_BUTTON_Selected.png",
+                                "additional": {
+                                    "originHash": "fb641e3e5ab9a685a12e1c7385cf3400"
+                                }
+                            },
+                            {
+                                "name": "LIP_BUTTON_SELECTED",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "40",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1665136400786100:56313",
+                                "fileId": "89",
+                                "originalId": "90",
+                                "publicId": "28622",
+                                "source": "\/Users\/hakanturinay\/Desktop\/UI_TASK\/Public\/UI ASSETS\/LIP_BUTTON_SELECTED.png",
+                                "additional": {
+                                    "originHash": "b0a3a759a5fa78c1caeeeff77098bd27"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "UIManager",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "41",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1671487011488425:7824",
+                        "fileId": "92",
+                        "originalId": "18446744073709551615",
+                        "publicId": "28623",
+                        "source": "C:\/Users\/utkuc\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiobVimABQxKQBP\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "NextProductPressTap",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "42",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1671487026750949:9215",
+                        "fileId": "93",
+                        "originalId": "18446744073709551615",
+                        "publicId": "28624",
+                        "source": "C:\/Users\/utkuc\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiobVimABQxKQBP\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "PreviousProductPressTap",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "43",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1671489414953193:190788",
+                        "fileId": "94",
+                        "originalId": "18446744073709551615",
+                        "publicId": "28625",
+                        "source": "C:\/Users\/utkuc\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiobVimABQxKQBP\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "SwipeProduct",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "44",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1671491865326662:17701",
+                        "fileId": "95",
+                        "originalId": "18446744073709551615",
+                        "publicId": "28626",
+                        "source": "C:\/Users\/utkuc\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiofHxnuctDpGaD\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "FaceButton",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "45",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1671495653042533:5366",
+                        "fileId": "96",
+                        "originalId": "18446744073709551615",
+                        "publicId": "28627",
+                        "source": "C:\/Users\/utkuc\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopCHQKvZbrUtz\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "LipsButton",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "46",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1671495741858314:14089",
+                        "fileId": "97",
+                        "originalId": "18446744073709551615",
+                        "publicId": "28628",
+                        "source": "C:\/Users\/utkuc\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopCHQKvZbrUtz\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "EyesButton",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "47",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1671495819599769:23149",
+                        "fileId": "98",
+                        "originalId": "18446744073709551615",
+                        "publicId": "28629",
+                        "source": "C:\/Users\/utkuc\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopCHQKvZbrUtz\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "SelectUnselectButton",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "48",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1671497261366533:146216",
+                        "fileId": "99",
+                        "originalId": "18446744073709551615",
+                        "publicId": "28630",
+                        "source": "C:\/Users\/utkuc\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopCHQKvZbrUtz\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1671472223474148:45617"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": "",
+            "33": "",
+            "34": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1665136400591504:56155",
+                    "v": {
+                        "infos": {
+                            "originalSize": "14844",
+                            "compressedSize": "14844",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "10",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400598690:56161",
+                    "v": {
+                        "infos": {
+                            "originalSize": "20386",
+                            "compressedSize": "20386",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "13",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400605473:56165",
+                    "v": {
+                        "infos": {
+                            "originalSize": "17041",
+                            "compressedSize": "17041",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "16",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400610318:56169",
+                    "v": {
+                        "infos": {
+                            "originalSize": "8294",
+                            "compressedSize": "8294",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "19",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400614954:56173",
+                    "v": {
+                        "infos": {
+                            "originalSize": "11197",
+                            "compressedSize": "11197",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "22",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400620450:56177",
+                    "v": {
+                        "infos": {
+                            "originalSize": "9000",
+                            "compressedSize": "9000",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "25",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400625343:56181",
+                    "v": {
+                        "infos": {
+                            "originalSize": "12546",
+                            "compressedSize": "12546",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "28",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400631196:56187",
+                    "v": {
+                        "infos": {
+                            "originalSize": "11975",
+                            "compressedSize": "11975",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "31",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400637122:56191",
+                    "v": {
+                        "infos": {
+                            "originalSize": "24024",
+                            "compressedSize": "24024",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "34",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400642181:56195",
+                    "v": {
+                        "infos": {
+                            "originalSize": "11491",
+                            "compressedSize": "11491",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "37",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400647629:56199",
+                    "v": {
+                        "infos": {
+                            "originalSize": "11688",
+                            "compressedSize": "11688",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "40",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400653599:56203",
+                    "v": {
+                        "infos": {
+                            "originalSize": "17277",
+                            "compressedSize": "17277",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "43",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400659440:56207",
+                    "v": {
+                        "infos": {
+                            "originalSize": "18159",
+                            "compressedSize": "18159",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "46",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400668207:56213",
+                    "v": {
+                        "infos": {
+                            "originalSize": "47971",
+                            "compressedSize": "47971",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "49",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400675624:56217",
+                    "v": {
+                        "infos": {
+                            "originalSize": "16876",
+                            "compressedSize": "16876",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "52",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400680463:56221",
+                    "v": {
+                        "infos": {
+                            "originalSize": "11858",
+                            "compressedSize": "11858",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "55",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400685935:56225",
+                    "v": {
+                        "infos": {
+                            "originalSize": "14507",
+                            "compressedSize": "14507",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "58",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400691291:56229",
+                    "v": {
+                        "infos": {
+                            "originalSize": "10569",
+                            "compressedSize": "10569",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "61",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400697612:56235",
+                    "v": {
+                        "infos": {
+                            "originalSize": "8505",
+                            "compressedSize": "8505",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "64",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400743700:56279",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1743",
+                            "compressedSize": "1743",
+                            "originalRAM": "262144",
+                            "compressedRAM": "262144",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "67",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400748136:56283",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1770",
+                            "compressedSize": "1770",
+                            "originalRAM": "262144",
+                            "compressedRAM": "262144",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "70",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400752474:56287",
+                    "v": {
+                        "infos": {
+                            "originalSize": "5674",
+                            "compressedSize": "5674",
+                            "originalRAM": "65536",
+                            "compressedRAM": "65536",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "73",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400757886:56291",
+                    "v": {
+                        "infos": {
+                            "originalSize": "3971",
+                            "compressedSize": "3971",
+                            "originalRAM": "65536",
+                            "compressedRAM": "65536",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "76",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400762155:56297",
+                    "v": {
+                        "infos": {
+                            "originalSize": "4526",
+                            "compressedSize": "4526",
+                            "originalRAM": "65536",
+                            "compressedRAM": "65536",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "79",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400767939:56301",
+                    "v": {
+                        "infos": {
+                            "originalSize": "80757",
+                            "compressedSize": "80757",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1048576",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "82",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400777995:56305",
+                    "v": {
+                        "infos": {
+                            "originalSize": "4657",
+                            "compressedSize": "4657",
+                            "originalRAM": "65536",
+                            "compressedRAM": "65536",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "85",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400782526:56309",
+                    "v": {
+                        "infos": {
+                            "originalSize": "5268",
+                            "compressedSize": "5268",
+                            "originalRAM": "65536",
+                            "compressedRAM": "65536",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "88",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665136400786100:56313",
+                    "v": {
+                        "infos": {
+                            "originalSize": "4136",
+                            "compressedSize": "4136",
+                            "originalRAM": "65536",
+                            "compressedRAM": "65536",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "91",
+                        "compressed_files": ""
+                    }
+                }
+            ]
+        },
+        "AssetImportController": {
+            "itemUidToID": ""
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.31.0"
+}
